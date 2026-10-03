@@ -1,3 +1,4 @@
+<div align="center">
 # MKxPLAYER - Spatial 8D, 16D, and 24D Audio Engine
 
 <img src="https://raw.githubusercontent.com/mkhossainx/MKxPLAYER/refs/heads/master/file_00000000e85482119f26e6da9ab86374.png" alt="MKxPLAYER Banner" width="100%">
