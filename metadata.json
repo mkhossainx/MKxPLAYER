@@ -1,0 +1,6 @@
+{
+  "name": "MKxPLAYER",
+  "description": "MKxPLAYER: Advanced on-device 8D, 16D, and 24D spatial audio converter and local music player with binaural panning and 3D visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
