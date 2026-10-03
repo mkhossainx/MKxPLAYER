@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer 3D Spatial Orbit Ring (8D/24D Vortex) -->
+    <path
+        android:pathData="M 28,48 C 28,34 80,34 80,48 C 80,62 28,62 28,48 Z"
+        android:strokeWidth="1.8"
+        android:fillColor="#00000000">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="28"
+                android:startY="34"
+                android:endX="80"
+                android:endY="62"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#00F2FE" />
+                <item android:offset="1.0" android:color="#9D4EDD" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Cross 16D Figure-8 Orbit Ribbon -->
+    <path
+        android:pathData="M 32,60 C 44,46 64,62 76,48 C 64,34 44,50 32,60 Z"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="32"
+                android:startY="34"
+                android:endX="76"
+                android:endY="60"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FF007F" />
+                <item android:offset="1.0" android:color="#00F2FE" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Headphone Arc Headband -->
+    <path
+        android:pathData="M 33,56 C 33,38 75,38 75,56"
+        android:strokeWidth="4.5"
+        android:strokeColor="#1E293B"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M 35,55 C 35,40 73,40 73,55"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="35"
+                android:startY="40"
+                android:endX="73"
+                android:endY="55"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#00F2FE" />
+                <item android:offset="0.5" android:color="#4CC9F0" />
+                <item android:offset="1.0" android:color="#F72585" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Left Earcup Outer -->
+    <path
+        android:pathData="M 27,53 C 27,48 34,48 34,53 L 34,67 C 34,72 27,72 27,67 Z"
+        android:fillColor="#0F172A"
+        android:strokeWidth="1.8"
+        android:strokeColor="#00F2FE" />
+
+    <!-- Left Earcup Cushion Glow -->
+    <path
+        android:pathData="M 29,54 C 29,51 32,51 32,54 L 32,66 C 32,69 29,69 29,66 Z"
+        android:fillColor="#00F2FE" />
+
+    <!-- Right Earcup Outer -->
+    <path
+        android:pathData="M 74,53 C 74,48 81,48 81,53 L 81,67 C 81,72 74,72 74,67 Z"
+        android:fillColor="#0F172A"
+        android:strokeWidth="1.8"
+        android:strokeColor="#FF007F" />
+
+    <!-- Right Earcup Cushion Glow -->
+    <path
+        android:pathData="M 76,54 C 76,51 79,51 79,54 L 79,66 C 79,69 76,69 76,66 Z"
+        android:fillColor="#FF007F" />
+
+    <!-- Center Spatial Sound Sphere / Pulsing Core -->
+    <path
+        android:pathData="M 54,49 A 11,11 0 1 0 54,71 A 11,11 0 1 0 54,49 Z"
+        android:fillColor="#0A0E1A"
+        android:strokeWidth="2.0">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="43"
+                android:startY="49"
+                android:endX="65"
+                android:endY="71"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#00F2FE" />
+                <item android:offset="1.0" android:color="#F72585" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Soundwave Equalizer Bars inside Core -->
+    <path
+        android:pathData="M 47,63 L 47,57"
+        android:strokeWidth="1.8"
+        android:strokeColor="#00F2FE"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 50.5,65 L 50.5,54"
+        android:strokeWidth="1.8"
+        android:strokeColor="#4CC9F0"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 54,67 L 54,52"
+        android:strokeWidth="2.0"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 57.5,65 L 57.5,54"
+        android:strokeWidth="1.8"
+        android:strokeColor="#F72585"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 61,63 L 61,57"
+        android:strokeWidth="1.8"
+        android:strokeColor="#FF007F"
+        android:strokeLineCap="round" />
+
+    <!-- Orbit Sound Nodes (Celestial 8D/24D Spatial Nodes) -->
+    <path
+        android:pathData="M 37,39 A 2.2,2.2 0 1 0 37,43.4 A 2.2,2.2 0 1 0 37,39 Z"
+        android:fillColor="#00F2FE" />
+    <path
+        android:pathData="M 71,41 A 2.2,2.2 0 1 0 71,45.4 A 2.2,2.2 0 1 0 71,41 Z"
+        android:fillColor="#FF007F" />
+    <path
+        android:pathData="M 54,32 A 2.5,2.5 0 1 0 54,37 A 2.5,2.5 0 1 0 54,32 Z"
+        android:fillColor="#7209B7" />
+
+    <!-- Dimensional MKx Badge Bottom -->
+    <path
+        android:pathData="M 44,76 L 64,76"
+        android:strokeWidth="1.5"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round" />
+</vector>
