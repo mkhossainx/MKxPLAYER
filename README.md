@@ -1,5 +1,6 @@
 # MKxPLAYER - Spatial 8D, 16D, and 24D Audio Engine
 
+<img src="assets/file_00000000e85482119f26e6da9ab86374.png" alt="MKxPLAYER Banner" width="100%">
 > **Your music, in every dimension.**  
 > *Developed by Mk Hossain*  
 > *POWERED BY BIZ FACTORY*
