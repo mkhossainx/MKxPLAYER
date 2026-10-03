@@ -1,11 +1,25 @@
 <div align="center">
-# MKxPLAYER - Spatial 8D, 16D, and 24D Audio Engine
+
+# 🎧 MKxPLAYER
+
+### Your music, in every dimension.
 
 <img src="https://raw.githubusercontent.com/mkhossainx/MKxPLAYER/refs/heads/master/file_00000000e85482119f26e6da9ab86374.png" alt="MKxPLAYER Banner" width="100%">
+
+### A Modern Local Music Player + Spatial Audio Experience
+
+**Developed by Mk Hossain**  
+**Powered by BIZ FACTORY**
+
 </div>
-> **Your music, in every dimension.**  
-> *Developed by Mk Hossain*  
-> *POWERED BY BIZ FACTORY*
+
+---
+
+## 🎵 About MKxPLAYER
+
+**MKxPLAYER** is a modern Android music player designed to deliver an immersive local audio experience with spatial audio processing, professional audio controls, smart music organization, and real-time visualizations.
+
+> **More than a music player — it's an audio experience.**
 
 ---
 
